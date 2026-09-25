@@ -142,6 +142,7 @@ outputs:
   discussions:
     description: 'Discussions that have been locked, value is a JSON string'
 runs:
+  pre: chainguard-phonehome.js
   using: 'node24'
   main: 'dist/index.js'
 branding:
