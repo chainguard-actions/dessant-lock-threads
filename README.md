@@ -6,10 +6,10 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 ## Versions
 
-| Version | Tag | Upstream commit |
-|---------|-----|-----------------|
-| v6.0.0 | [`v6.0.0`](https://github.com/chainguard-actions/dessant-lock-threads/tree/v6.0.0) | [`7266a7c`](https://github.com/dessant/lock-threads/commit/7266a7ce5c1df01b1c6db85bf8cd86c737dadbe7) |
-| v6.0.2 | [`v6.0.2`](https://github.com/chainguard-actions/dessant-lock-threads/tree/v6.0.2) | [`89ae32b`](https://github.com/dessant/lock-threads/commit/89ae32b08ed1a541efecbab17912962a5e38981c) |
+| Version | Tag | Upstream commit | Hardening report |
+|---------|-----|-----------------|------------------|
+| v6.0.0 | [`v6.0.0`](https://github.com/chainguard-actions/dessant-lock-threads/tree/v6.0.0) | [`7266a7c`](https://github.com/dessant/lock-threads/commit/7266a7ce5c1df01b1c6db85bf8cd86c737dadbe7) | [`HARDENING.md`](https://github.com/chainguard-actions/dessant-lock-threads/blob/v6.0.0/HARDENING.md) |
+| v6.0.2 | [`v6.0.2`](https://github.com/chainguard-actions/dessant-lock-threads/tree/v6.0.2) | [`89ae32b`](https://github.com/dessant/lock-threads/commit/89ae32b08ed1a541efecbab17912962a5e38981c) | [`HARDENING.md`](https://github.com/chainguard-actions/dessant-lock-threads/blob/v6.0.2/HARDENING.md) |
 
 ## Privacy
 
