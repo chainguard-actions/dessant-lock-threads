@@ -4,8 +4,13 @@
   "version": "v6.0.2",
   "commit_sha": "89ae32b08ed1a541efecbab17912962a5e38981c",
   "url": "https://github.com/dessant/lock-threads",
-  "policy_sha": "d636be7e43ef829af6e853da6b3c7566db9f72fe",
+  "policy_sha": "374911c4be584df24e6da57af2d990570ef0f859",
   "test_policy_sha": "843adf9e4b8f85d0c08b27b9d0b09dd094b54702",
-  "test_agent_version": "1",
-  "harden_agent_version": "1"
+  "test_agent_version": "2",
+  "harden_agent_version": "2",
+  "dist_artifact": {
+    "gcs_uri": "gs://patch-actions-node-artifacts/dist-artifacts/dessant/lock-threads/v6.0.2/sha256-adf95dcca9c210039e9887d89da1a116ff22b83243148a94a0538890290878d9.tar.gz",
+    "sha256": "adf95dcca9c210039e9887d89da1a116ff22b83243148a94a0538890290878d9",
+    "size_bytes": 409370
+  }
 }
